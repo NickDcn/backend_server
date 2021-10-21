@@ -1,5 +1,5 @@
 apiVersion: v2
-name: backend_server
+name: backend-server
 description: RivalScan Backend Server 
 
 # A chart can be either an 'application' or a 'library' chart.
